@@ -1,0 +1,7 @@
+Pesonas:
+
+Player.
+
+Sendo = Player
+Passo = Seleciona tema de sua palavra
+Para = adivinhar a palvra dentro daquele tema. 
